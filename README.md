@@ -1,5 +1,15 @@
+### My Git-server
+I usually dont use Github directly for my projects and only sync a few public repos here.
+
+My own git can be found here: https://gitea.ruekov.eu
+
+<br>
+
+### What i do
 - Selfhosting some stuff
 - Developing Quality-of-life Applications, mostly for myself.
+
+<br>
 
 ---
 
