@@ -1,7 +1,7 @@
 ### My Git-server
 I usually dont use Github directly for my projects and only sync a few public repos here.
 
-My own git can be found here: https://gitea.ruekov.eu
+My own git can be found here: https://git.ruekov.eu
 
 <br>
 
