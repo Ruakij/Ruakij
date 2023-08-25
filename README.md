@@ -1,23 +1,25 @@
-### My Git-server
-I usually dont use Github directly for my projects and only sync a few public repos here.
+## Hi, I'm Ruakij
+Of course, that's not my real name. Keeping identities separated gives control and mystery.
 
-My own git can be found here: https://git.ruekov.eu
+I enjoy goofing around and fiddling with projects. 
+Most of the projects or activities here are tools or services I use to solve a problem or simply to have fun.
 
-<br>
+### What Else?
+I like Open Source, basically being free to do what i want with the things i own.. that kind of stuff.
 
-### What i do
-- Selfhosting some stuff
-- Developing Quality-of-life Applications, mostly for myself.
+## 🛠️ What I Do:
+- **Selfhosting**: Autonomy and control.. when i have time to service everything..
+- **Development**: Mainly quality-of-life tools for myself, but feel free to use what you need.
+- **Tinkering**: It's like playing with bricks all over again!
 
-<br>
-
----
-
-> A person who thinks all the time has nothing to think about except thoughts.
-> So, he loses touch with reality and lives in a world of illusions.”
-> 
-> &mdash; <cite>Alan Watts</cite>
-
-
-
-
+## 📘 Skills:
+- 🌐 **Server & Service Administration**
+  - Container deployment and orchestration with tools like **Kubernetes**.
+  - DevOps with CI/CD, IaC, and automation.
+  
+- 💻 **Software Development**
+  - Creating services & tools to solve problems.
+  
+- 🔌 **Hardware Design**
+  - Product design and 3D printing.
+  - Microcontroller electronics and sensors for IoT/SmartHome.
